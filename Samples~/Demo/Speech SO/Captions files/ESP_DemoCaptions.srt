@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:01,900
+Con Localized Narration,
+
+2
+00:00:01,900 --> 00:00:06,000
+puedes reproducir audio subtitulado
+de forma fácil y sencilla.
+
+3
+00:00:06,000 --> 00:00:10,500
+Puedes cambiar fácilmente de
+idioma en mitad de una reproducción.
+
+4
+00:00:10,500 --> 00:00:13,500
+Continuará automáticamente
+desde donde lo dejaste.
+
+5
+00:00:13,500 --> 00:00:16,850
+Localized Narration es infalible,
+
+6
+00:00:16,850 --> 00:00:21,000
+puedes spamear los controles y
+seguirá funcionando sin problemas.
+
+7
+00:00:18,000 --> 00:00:22,750
+[DEBUG] Subtítulo de una línea.
+
+8
+00:00:22,750 --> 00:00:28,750
+[DEBUG] Subtítulo de dos línea.
+[DEBUG] Subtítulo de dos línea.

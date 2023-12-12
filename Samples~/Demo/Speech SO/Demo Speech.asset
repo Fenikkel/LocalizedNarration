@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e2e15f871bd20c45b3ae4de930addad, type: 3}
+  m_Name: Demo Speech
+  m_EditorClassIdentifier: 
+  LocalizedAudio:
+    m_TableReference:
+      m_TableCollectionName: GUID:8f1f99589d21aa848903511994fa5362
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: DemoEntry
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+  LocalizedTextAsset:
+    m_TableReference:
+      m_TableCollectionName: GUID:7cc13da4f120aba44a43f93e234d5228
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: DemoEntry
+    m_FallbackState: 0
+    m_WaitForCompletion: 0

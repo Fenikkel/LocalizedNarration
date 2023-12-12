@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:01,900
+Avec la narration localisée,
+
+2
+00:00:01,900 --> 00:00:06,000
+vous pouvez lire des fichiers audio
+sous-titrés facilement et simplement.
+
+3
+00:00:06,000 --> 00:00:10,500
+Vous pouvez facilement changer
+de langue au milieu de la lecture.
+
+4
+00:00:10,500 --> 00:00:13,500
+La lecture reprendra automatiquement
+là où vous l'avez laissée.
+
+5
+00:00:13,500 --> 00:00:16,850
+La narration localisée est infaillible,
+
+6
+00:00:16,850 --> 00:00:21,000
+vous pouvez spammer les commandes et
+elle continuera à fonctionner sans problème.
+
+7
+00:00:18,000 --> 00:00:22,750
+[DEBUG] Sous-titre d'une ligne.
+
+8
+00:00:22,750 --> 00:00:28,750
+[DEBUG] Sous-titre de deux lignes.
+[DEBUG] Sous-titre de deux lignes.
