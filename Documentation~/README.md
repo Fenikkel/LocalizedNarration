@@ -3,7 +3,7 @@
 Multi-lingual narration system.
 
 <p align="center">
-  <img src="https://github.com/Fenikkel/LocalizedCaptions/assets/41298931/94209c2f-d76d-4819-8a1b-1b5790a72095" alt="Art image"/>
+  <img src="https://github.com/Fenikkel/LocalizedNarration/assets/41298931/a887a7b4-be5f-41b9-9a9c-8045920a6400" alt="Art image"/>
 </p>
 
 
