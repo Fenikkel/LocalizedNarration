@@ -1,6 +1,8 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
+using CaptionsFileParser;
+using LocalizedAudio;
 
 #if UNITY_EDITOR
 using UnityEditor;
@@ -12,8 +14,7 @@ using UnityEditor;
  * 
  * 
  */
-
-public class LocalizedNarrationController : MonoBehaviour
+    public class LocalizedNarrationController : MonoBehaviour
 {
     public UnityEvent OnPreloadedNarration;
 
