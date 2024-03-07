@@ -1,7 +1,6 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
-using CaptionsFileParser;
 using LocalizedAudio;
 
 #if UNITY_EDITOR
