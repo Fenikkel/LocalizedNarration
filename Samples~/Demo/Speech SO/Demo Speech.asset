@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   LocalizedAudio:
     m_TableReference:
-      m_TableCollectionName: GUID:8f1f99589d21aa848903511994fa5362
+      m_TableCollectionName: GUID:4e3452ba94c5183418b712a799a7e8d6
     m_TableEntryReference:
       m_KeyId: 0
       m_Key: DemoEntry
