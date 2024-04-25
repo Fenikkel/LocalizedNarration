@@ -1,4 +1,4 @@
-using LocalizedAudio;
+using LocalizedCaptions;
 using UnityEngine;
 using UnityEngine.Localization;
 

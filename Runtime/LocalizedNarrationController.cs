@@ -2,6 +2,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
 using LocalizedAudio;
+using LocalizedCaptions;
 
 #if UNITY_EDITOR
 using UnityEditor;
